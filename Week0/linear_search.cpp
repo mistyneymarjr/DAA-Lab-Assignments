@@ -18,7 +18,7 @@ void  linearSearch(int a[],int n, int x)
         
     }
     if(count)
-    cout<<"Number is not present.";
+    cout<<"Number is not present."<<endl<<"Total no of comparisons:  "<<comp;;
    
 }
 int main()
